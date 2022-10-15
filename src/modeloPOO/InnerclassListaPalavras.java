@@ -19,7 +19,8 @@ public class InnerclassListaPalavras {
 			this.quantidade = quantidade;
 		}
 	}
-
+// a coleção de objetos "NoLista" pode ser utilizado apenas neste documento
+// pois foi declarado com assessor privado.
 	private ArrayList<NoLista> lista = new ArrayList<>();
 
 // estrutura try/catch funcional para verificar se palavra já existe na coleção com
