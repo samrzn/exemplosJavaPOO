@@ -1,4 +1,4 @@
-package modeloPOO;
+package modelPOO;
 
 // interface sempre é de assessor público, assim como seus métodos e atributos.
 public interface ContaInterface {

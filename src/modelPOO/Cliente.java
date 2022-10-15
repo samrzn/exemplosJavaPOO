@@ -1,4 +1,4 @@
-package modeloPOO;
+package modelPOO;
 
 import java.util.Date;
 

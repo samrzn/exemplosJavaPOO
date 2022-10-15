@@ -2,8 +2,8 @@ package exemploProgOrientadaObj_aula03082022;
 
 import java.util.Date;
 
-import modeloPOO.Cliente;
-import modeloPOO.ClientePJ;
+import modelPOO.Cliente;
+import modelPOO.ClientePJ;
 
 public class ClienteApp {
 

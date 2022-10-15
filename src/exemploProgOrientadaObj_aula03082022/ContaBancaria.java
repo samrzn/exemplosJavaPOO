@@ -1,8 +1,8 @@
 package exemploProgOrientadaObj_aula03082022;
 
-import modeloPOO.Conta;
-import modeloPOO.ContaCorrente;
-import modeloPOO.ContaPoupanca;
+import modelPOO.Conta;
+import modelPOO.ContaCorrente;
+import modelPOO.ContaPoupanca;
 
 public class ContaBancaria {
 

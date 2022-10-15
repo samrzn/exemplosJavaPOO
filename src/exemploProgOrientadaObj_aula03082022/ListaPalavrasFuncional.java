@@ -1,6 +1,6 @@
 package exemploProgOrientadaObj_aula03082022;
 
-import modeloPOO.InnerclassListaPalavras;
+import modelPOO.InnerclassListaPalavras;
 
 public class ListaPalavrasFuncional {
 

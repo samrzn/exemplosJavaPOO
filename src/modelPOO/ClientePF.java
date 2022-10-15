@@ -1,4 +1,4 @@
-package modeloPOO;
+package modelPOO;
 
 public class ClientePF extends Cliente {
 	private String rg;

@@ -1,4 +1,4 @@
-package modeloPOO;
+package modelPOO;
 
 public class ContaPoupanca extends Conta {
 

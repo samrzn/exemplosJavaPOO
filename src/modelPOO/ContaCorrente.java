@@ -1,4 +1,4 @@
-package modeloPOO;
+package modelPOO;
 
 // ao implementar uma interface, obrigatoriamente todos seus métodos devem ser
 // implementados na classe destino.
