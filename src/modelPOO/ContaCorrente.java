@@ -16,11 +16,19 @@ public class ContaCorrente extends Conta implements ContaInterface {
 	// é considerado polimorfismo, pois acrescenta novas características.
 	@Override
 	public void depositar(double valor) {
-		saldo += valor;
+		setSaldo(getSaldo() + valor);
 	}
 
 	@Override
 	public void sacar(double valor) {
-		saldo -= valor;
+		setSaldo(getSaldo() - valor);
+	}
+
+	public double getSaldo() {
+		return saldo;
+	}
+
+	public void setSaldo(double saldo) {
+		this.saldo = saldo;
 	}
 }
