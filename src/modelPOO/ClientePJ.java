@@ -23,4 +23,4 @@ public class ClientePJ extends Cliente {
 	public void setCNPJ(String cNPJ) {
 		CNPJ = cNPJ;
 	}
-}
+} 

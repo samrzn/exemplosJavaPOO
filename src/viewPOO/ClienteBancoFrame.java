@@ -73,4 +73,4 @@ public class ClienteBancoFrame extends JFrame {
 	public static void main(String[] args) {
 		new ClienteBancoFrame().setVisible(true);
 	}
-}
+} 

@@ -15,4 +15,4 @@ public class ContaBancaria {
 		for (Conta c : c2)
 			c.registrar();
 	}
-}
+} 

@@ -18,4 +18,4 @@ public class ClienteApp {
 		c2.setNome("Tove");
 		System.out.println("Cliente PJ: " + c2.getNome() + ".");
 	}
-}
+} 

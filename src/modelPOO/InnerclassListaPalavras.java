@@ -41,7 +41,7 @@ public class InnerclassListaPalavras {
 // mecanismo da estrutura "try" é identico ao anterior, exceto pelo contador
 // "quantidade" que não sofre incremento quando o valor é igual a 0, nessa ocasião 
 // informa-se quantas vezes a palavra apareceu; valor diferente de 0 resulta
-// representa paralvra que não consta na coleção, retornando o valor 0 no Contador.
+// representa palavra que não consta na coleção, retornando o valor 0 no Contador.
 	public int getContador(String palavra) {
 		try {
 			return lista.stream()

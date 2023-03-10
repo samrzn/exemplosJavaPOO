@@ -4,4 +4,4 @@ package modelPOO;
 // classes e objetos que o estendem.
 public abstract class Conta {
 	public abstract void registrar();
-}
+} 

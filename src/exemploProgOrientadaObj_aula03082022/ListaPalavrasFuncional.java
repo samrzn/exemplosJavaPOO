@@ -8,7 +8,7 @@ public class ListaPalavrasFuncional {
 // exemplo "l1", com adição de elementos ao array pelo método "addPalavra".
 	public static void main(String[] args) {
 		InnerclassListaPalavras l1 = new InnerclassListaPalavras();
-		String palavras[] = { "Viana", "Cruz", "Sena", "Rosa", "Neves" };
+		String palavras[] = { "Viana", "Cruz", "Sena", "Rosa", "Neves", "Cruz" };
 		for (String p : palavras) {
 			l1.addPalavra(p);
 		}
